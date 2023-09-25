@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T03:19:48 PDT" name="Default suite" finished-at="2023-09-25T03:20:06 PDT" duration-ms="18111">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T03:19:48 PDT" name="Default test" finished-at="2023-09-25T03:20:06 PDT" duration-ms="18111">
+      <class name="Loginapp.positivetests">
+        <test-method signature="Logintest()[pri:0, instance:Loginapp.positivetests@59662a0b]" started-at="2023-09-25T03:19:48 PDT" name="Logintest" finished-at="2023-09-25T03:20:06 PDT" duration-ms="18048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+      </class> <!-- Loginapp.positivetests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
